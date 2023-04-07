@@ -1,0 +1,16 @@
+{
+    "name": "promisetest",
+    "version": "1.0.0",
+    "description": "這是一個測試測試JS Promise的專案",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "promise",
+        "async"
+    ],
+    "author": "Roger Lo",
+    "license": "ISC"
+}
